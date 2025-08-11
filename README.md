@@ -18,19 +18,20 @@ Dataset downloaded from Kaggle (Titanic survival prediction)
 ## 3. Visualizations
 
 - **Pairplot**: plotting amongst dataset columns
+  
   **Observation:** Each column is plotted against the others for pattern recognition.
   
 - **Heatmap:** correlation
   **Observation:** Observation: Survival has a positive correlation with Fare and negative correlation with Passenger Class
   
--**Histogram**:Fare Distribution
+- **Histogram**:Fare Distribution
 
--**Boxplot**:Fare vs Survival
+- **Boxplot**:Fare vs Survival
 
--**Scatterplot:**(Age vs Fare by Survival)
+- **Scatterplot:** Age vs Fare by Survival
   **Observation** :
-    -Death ratio is lower for age group 60–80.
-    -Higher fare passengers had better survival chances
+    - Death ratio is lower for age group 60–80.
+    - Higher fare passengers had better survival chances
 
 ## summary :
 
