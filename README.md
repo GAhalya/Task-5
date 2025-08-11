@@ -5,8 +5,8 @@ Dataset downloaded from Kaggle (Titanic survival prediction)
 
 ## 1. Data Import & Setup
 
-- Extracted files from ZIP.
-- Uploaded CSV into Google Colab.
+- Extracted files from ZIP
+- Uploaded CSV into Google Colab
 - Created DataFrame using Pandas
 
 ## 2. Operations performed on dataset
@@ -22,6 +22,7 @@ Dataset downloaded from Kaggle (Titanic survival prediction)
   **Observation:** Each column is plotted against the others for pattern recognition.
   
 - **Heatmap:** correlation
+  
   **Observation:** Observation: Survival has a positive correlation with Fare and negative correlation with Passenger Class
   
 - **Histogram**:Fare Distribution
@@ -29,8 +30,9 @@ Dataset downloaded from Kaggle (Titanic survival prediction)
 - **Boxplot**:Fare vs Survival
 
 - **Scatterplot:** Age vs Fare by Survival
+  
   **Observation** :
-    - Death ratio is lower for age group 60–80.
+    - Death ratio is lower for age group 60–80
     - Higher fare passengers had better survival chances
 
 ## summary :
