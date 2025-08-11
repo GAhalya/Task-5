@@ -5,9 +5,9 @@ Dataset downloaded from Kaggle (Titanic survival prediction)
 
 ## 1. Data Import & Setup
 
--Extracted files from ZIP.
--Uploaded CSV into Google Colab.
--Created DataFrame using Pandas:
+- Extracted files from ZIP.
+- Uploaded CSV into Google Colab.
+- Created DataFrame using Pandas
 
 ## 2. Operations performed on dataset
 
